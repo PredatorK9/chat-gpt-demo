@@ -1,6 +1,6 @@
 # ChatGPT Python Demo
 
-This application was built to learn and demonstrate on how to use the ChatGPT model API made available by OpenAI.
+This application was built to learn and demonstrate on how to use the ChatGPT model API made available by OpenAI.<br/>
 This isn't supposed to be a fully fledged chatbot so keep that in mind but if this still does pique your interest and you want to run it then you can follow the steps as follows.
 
 ## Steps to run
