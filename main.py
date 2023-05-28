@@ -22,6 +22,8 @@ def run():
         msg_field.submit(respond, [msg_field, chatbot_ui], [msg_field, chatbot_ui])
         clear_button.click(lambda: MESSAGE_HISTORY.clear(), None, chatbot_ui, queue=False)
 
+    # Set share=True if you want to share it with people that cannot access your computer
+    # It will create a exposed url which will tunnel straight into your system.
     demo.launch(share=False)
 
 
